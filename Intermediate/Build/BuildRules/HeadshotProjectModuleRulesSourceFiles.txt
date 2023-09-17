@@ -1,0 +1,3 @@
+C:\Users\Denis\Documents\Unreal Projects\HeadshotProject\Source\HeadshotProject\HeadshotProject.Build.cs
+C:\Users\Denis\Documents\Unreal Projects\HeadshotProject\Source\HeadshotProject.Target.cs
+C:\Users\Denis\Documents\Unreal Projects\HeadshotProject\Source\HeadshotProjectEditor.Target.cs

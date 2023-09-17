@@ -1,0 +1,92 @@
+// Copyright 1998-2017 Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "ObjectMacros.h"
+#include "ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef HEADSHOTPROJECT_HPClipEjectAnimNotify_generated_h
+#error "HPClipEjectAnimNotify.generated.h already included, missing '#pragma once' in HPClipEjectAnimNotify.h"
+#endif
+#define HEADSHOTPROJECT_HPClipEjectAnimNotify_generated_h
+
+#define HeadshotProject_Source_HeadshotProject_Public_Animations_HPClipEjectAnimNotify_h_12_RPC_WRAPPERS
+#define HeadshotProject_Source_HeadshotProject_Public_Animations_HPClipEjectAnimNotify_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define HeadshotProject_Source_HeadshotProject_Public_Animations_HPClipEjectAnimNotify_h_12_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUHPClipEjectAnimNotify(); \
+	friend HEADSHOTPROJECT_API class UClass* Z_Construct_UClass_UHPClipEjectAnimNotify(); \
+public: \
+	DECLARE_CLASS(UHPClipEjectAnimNotify, UHPAnimNotify, COMPILED_IN_FLAGS(0), 0, TEXT("/Script/HeadshotProject"), NO_API) \
+	DECLARE_SERIALIZER(UHPClipEjectAnimNotify) \
+	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
+
+
+#define HeadshotProject_Source_HeadshotProject_Public_Animations_HPClipEjectAnimNotify_h_12_INCLASS \
+private: \
+	static void StaticRegisterNativesUHPClipEjectAnimNotify(); \
+	friend HEADSHOTPROJECT_API class UClass* Z_Construct_UClass_UHPClipEjectAnimNotify(); \
+public: \
+	DECLARE_CLASS(UHPClipEjectAnimNotify, UHPAnimNotify, COMPILED_IN_FLAGS(0), 0, TEXT("/Script/HeadshotProject"), NO_API) \
+	DECLARE_SERIALIZER(UHPClipEjectAnimNotify) \
+	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
+
+
+#define HeadshotProject_Source_HeadshotProject_Public_Animations_HPClipEjectAnimNotify_h_12_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UHPClipEjectAnimNotify(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UHPClipEjectAnimNotify) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UHPClipEjectAnimNotify); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UHPClipEjectAnimNotify); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UHPClipEjectAnimNotify(UHPClipEjectAnimNotify&&); \
+	NO_API UHPClipEjectAnimNotify(const UHPClipEjectAnimNotify&); \
+public:
+
+
+#define HeadshotProject_Source_HeadshotProject_Public_Animations_HPClipEjectAnimNotify_h_12_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UHPClipEjectAnimNotify(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UHPClipEjectAnimNotify(UHPClipEjectAnimNotify&&); \
+	NO_API UHPClipEjectAnimNotify(const UHPClipEjectAnimNotify&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UHPClipEjectAnimNotify); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UHPClipEjectAnimNotify); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UHPClipEjectAnimNotify)
+
+
+#define HeadshotProject_Source_HeadshotProject_Public_Animations_HPClipEjectAnimNotify_h_12_PRIVATE_PROPERTY_OFFSET
+#define HeadshotProject_Source_HeadshotProject_Public_Animations_HPClipEjectAnimNotify_h_9_PROLOG
+#define HeadshotProject_Source_HeadshotProject_Public_Animations_HPClipEjectAnimNotify_h_12_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	HeadshotProject_Source_HeadshotProject_Public_Animations_HPClipEjectAnimNotify_h_12_PRIVATE_PROPERTY_OFFSET \
+	HeadshotProject_Source_HeadshotProject_Public_Animations_HPClipEjectAnimNotify_h_12_RPC_WRAPPERS \
+	HeadshotProject_Source_HeadshotProject_Public_Animations_HPClipEjectAnimNotify_h_12_INCLASS \
+	HeadshotProject_Source_HeadshotProject_Public_Animations_HPClipEjectAnimNotify_h_12_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define HeadshotProject_Source_HeadshotProject_Public_Animations_HPClipEjectAnimNotify_h_12_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	HeadshotProject_Source_HeadshotProject_Public_Animations_HPClipEjectAnimNotify_h_12_PRIVATE_PROPERTY_OFFSET \
+	HeadshotProject_Source_HeadshotProject_Public_Animations_HPClipEjectAnimNotify_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+	HeadshotProject_Source_HeadshotProject_Public_Animations_HPClipEjectAnimNotify_h_12_INCLASS_NO_PURE_DECLS \
+	HeadshotProject_Source_HeadshotProject_Public_Animations_HPClipEjectAnimNotify_h_12_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID HeadshotProject_Source_HeadshotProject_Public_Animations_HPClipEjectAnimNotify_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

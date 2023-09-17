@@ -1,0 +1,4 @@
+Discovering modules, targets and source code for project...
+@progress 'Binding IntelliSense data...' 0%
+@progress 'Binding IntelliSense data...' 50%
+ERROR: Couldn't find module rules file for module 'PhysicsCore'.

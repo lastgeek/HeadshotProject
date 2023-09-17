@@ -1,0 +1,420 @@
+﻿Log file open, 09/08/23 05:42:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: HeadshotProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1583072884) SRandInit(-1583072884).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.334928
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2023.09.08-12.42.58:779][  0]LogInit: Selected Device Profile: [Windows]
+[2023.09.08-12.42.58:780][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.09.08-12.42.58:852][  0]LogInit: Computer: DESKTOP-FPA312V
+[2023.09.08-12.42.58:852][  0]LogInit: User: Denis
+[2023.09.08-12.42.58:852][  0]LogInit: CPU Page size=4096, Cores=4
+[2023.09.08-12.42.58:852][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.09.08-12.42.58:852][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2023.09.08-12.42.58:853][  0]LogMemory: Platform Memory Stats for Windows
+[2023.09.08-12.42.58:853][  0]LogMemory: Process Physical Memory: 279.35 MB used, 279.35 MB peak
+[2023.09.08-12.42.58:853][  0]LogMemory: Process Virtual Memory: 274.13 MB used, 274.13 MB peak
+[2023.09.08-12.42.58:853][  0]LogMemory: Physical Memory: 3555.59 MB used,  4459.38 MB free, 8014.97 MB total
+[2023.09.08-12.42.58:853][  0]LogMemory: Virtual Memory: 4787.93 MB used,  4459.38 MB free, 134217728.00 MB total
+[2023.09.08-12.43.00:074][  0]LogInit: Using OS detected language (en-US).
+[2023.09.08-12.43.00:074][  0]LogInit: Using OS detected locale (en-US).
+[2023.09.08-12.43.00:207][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.09.08-12.43.06:233][  0]LogD3D11RHI: D3D11 adapters:
+[2023.09.08-12.43.06:492][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 605' (Feature Level 11_0)
+[2023.09.08-12.43.06:492][  0]LogD3D11RHI:       128/0/4007 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2023.09.08-12.43.06:499][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.09.08-12.43.06:499][  0]LogD3D11RHI:       0/0/4007 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.09.08-12.43.06:499][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2023.09.08-12.43.06:513][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.09.08-12.43.06:515][  0]LogD3D11RHI:     GPU DeviceId: 0x3184 (for the marketing name, search the web for "GPU Device Id")
+[2023.09.08-12.43.06:515][  0]LogWindows: EnumDisplayDevices:
+[2023.09.08-12.43.06:515][  0]LogWindows:    0. 'Intel(R) UHD Graphics 605' (P:1 D:1)
+[2023.09.08-12.43.06:515][  0]LogWindows:    1. 'Intel(R) UHD Graphics 605' (P:0 D:0)
+[2023.09.08-12.43.06:516][  0]LogWindows:    2. 'Intel(R) UHD Graphics 605' (P:0 D:0)
+[2023.09.08-12.43.06:516][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2023.09.08-12.43.06:516][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 605
+[2023.09.08-12.43.06:516][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2023.09.08-12.43.06:516][  0]LogD3D11RHI:      Driver Date: Unknown
+[2023.09.08-12.43.06:516][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2023.09.08-12.43.06:686][  0]LogD3D11RHI: Async texture creation enabled
+[2023.09.08-12.43.06:743][  0]LogD3D11RHI: GPU Timing Frequency: 19.200123 (Debug: 2 0)
+[2023.09.08-12.43.06:754][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/Denis/Documents/Unreal Projects/HeadshotProject/Intermediate/Shaders/WorkingDirectory/2508/).
+[2023.09.08-12.43.06:754][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Denis/AppData/Local/Temp/UnrealShaderWorkingDir/FE114F68435B70A980B2AF87A0AB0E94/'.
+[2023.09.08-12.43.06:755][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.09.08-12.43.12:489][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2023.09.08-12.43.12:617][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2023.09.08-12.43.12:749][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2023.09.08-12.43.12:878][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2023.09.08-12.43.13:022][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2023.09.08-12.43.13:151][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2023.09.08-12.43.13:283][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2023.09.08-12.43.13:412][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2023.09.08-12.43.13:530][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2023.09.08-12.43.13:672][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2023.09.08-12.43.13:803][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2023.09.08-12.43.13:931][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2023.09.08-12.43.14:062][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2023.09.08-12.43.14:191][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2023.09.08-12.43.14:320][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2023.09.08-12.43.14:577][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2023.09.08-12.43.14:577][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2023.09.08-12.43.14:684][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2023.09.08-12.43.14:919][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2023.09.08-12.43.15:001][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2023.09.08-12.43.15:129][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2023.09.08-12.43.15:258][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2023.09.08-12.43.15:387][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2023.09.08-12.43.15:528][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2023.09.08-12.43.15:529][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.09.08-12.43.17:078][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.09.08-12.43.17:718][  0]LogDerivedDataCache: Loaded boot cache 0.64s 93MB C:/Users/Denis/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2023.09.08-12.43.17:718][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Denis/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2023.09.08-12.43.17:718][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Denis/Documents/Unreal Projects/HeadshotProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.09.08-12.43.17:718][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.09.08-12.43.17:719][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Denis/Documents/Unreal Projects/HeadshotProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.09.08-12.43.17:719][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.09.08-12.43.17:773][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.09.08-12.43.17:787][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Denis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.09.08-12.43.17:819][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2023.09.08-12.43.17:834][  0]LogSlate: Using Freetype 2.6.0
+[2023.09.08-12.43.17:889][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.09.08-12.43.17:890][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.09.08-12.43.20:223][  0]LogAssetRegistry: FAssetRegistry took 0.0404 seconds to start up
+[2023.09.08-12.43.20:553][  0]LogInit: Selected Device Profile: [Windows]
+[2023.09.08-12.43.22:099][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2023.09.08-12.43.22:218][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2023.09.08-12.43.22:219][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.09.08-12.43.22:219][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2023.09.08-12.43.22:219][  0]LogMeshReduction: No automatic mesh merging module available
+[2023.09.08-12.43.22:219][  0]LogMeshMerging: No automatic mesh merging module available
+[2023.09.08-12.43.22:257][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2023.09.08-12.43.24:140][  0]LogNetVersion: HeadshotProject , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2358636847)
+[2023.09.08-12.43.25:233][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.123467 seconds
+[2023.09.08-12.43.25:249][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2023.09.08-12.43.25:249][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2023.09.08-12.43.25:249][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.09.08-12.43.25:438][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2023.09.08-12.43.34:872][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.09.08-12.43.34:969][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.09.08-12.43.36:990][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2023.09.08-12.43.38:273][  0]SourceControl: Source control is disabled
+[2023.09.08-12.43.38:273][  0]SourceControl: Source control is disabled
+[2023.09.08-12.43.38:411][  0]SourceControl: Source control is disabled
+[2023.09.08-12.43.38:542][  0]SourceControl: Source control is disabled
+[2023.09.08-12.43.40:212][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.09.08-12.43.40:866][  0]LogOcInput: OculusInput pre-init called
+[2023.09.08-12.43.41:653][  0]LogEngine: Initializing Engine...
+[2023.09.08-12.43.41:668][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.09.08-12.43.42:523][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2023.09.08-12.43.42:524][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2023.09.08-12.43.42:893][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.09.08-12.43.42:932][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.09.08-12.43.43:617][  0]LogInit: FAudioDevice initialized.
+[2023.09.08-12.43.43:733][  0]LogDerivedDataCache: Saved boot cache 0.12s 93MB C:/Users/Denis/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2023.09.08-12.43.43:756][  0]LogInit: Texture streaming: Enabled
+[2023.09.08-12.43.44:105][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.09.08-12.43.44:750][  0]LogInit: Transaction tracking system initialized
+[2023.09.08-12.43.45:649][  0]BlueprintLog: New page: Editor Load
+[2023.09.08-12.43.48:294][  0]LocalizationService: Localization service is disabled
+[2023.09.08-12.43.50:658][  0]LogConsoleResponse: Display: 
+[2023.09.08-12.43.51:575][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2023.09.08-12.43.51:575][  0]LogCook: Display: Mobile HDR setting 1
+[2023.09.08-12.43.51:578][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Denis/Documents/Unreal Projects/HeadshotProject/Content/' took 0.02s
+[2023.09.08-12.43.51:578][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2023.09.08-12.43.54:610][  0]SourceControl: Source control is disabled
+[2023.09.08-12.43.54:615][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Denis/Documents/Unreal Projects/HeadshotProject/Content/Maps/GymMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.09.08-12.43.54:631][  0]LightingResults: New page: Lighting Build
+[2023.09.08-12.43.54:746][  0]MapCheck: New page: Map Check
+[2023.09.08-12.43.54:746][  0]LightingResults: New page: Lighting Build
+[2023.09.08-12.43.58:685][  0]LogAIModule: Creating AISystem for world GymMap
+[2023.09.08-12.44.00:450][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.08-12.44.00:497][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.08-12.44.00:620][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 121.841ms to complete.
+[2023.09.08-12.44.00:620][  0]LogFileHelpers: Loading map 'GymMap' took 6.007
+[2023.09.08-12.44.01:107][  0]LogCollectionManager: Loaded 0 collections in 0.003088 seconds
+[2023.09.08-12.44.01:299][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Denis/Documents/Unreal Projects/HeadshotProject/Saved/Collections/' took 0.01s
+[2023.09.08-12.44.01:299][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Denis/Documents/Unreal Projects/HeadshotProject/Content/Developers/Denis/Collections/' took 0.01s
+[2023.09.08-12.44.01:299][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Denis/Documents/Unreal Projects/HeadshotProject/Content/Collections/' took 0.01s
+[2023.09.08-12.44.01:299][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2023.09.08-12.44.01:345][  0]LogContentBrowser: Native class hierarchy populated in 0.0412 seconds. Added 2406 classes and 510 folders.
+[2023.09.08-12.44.01:552][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0180 seconds. Added 0 classes and 0 folders.
+[2023.09.08-12.44.02:339][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0177 seconds. Added 0 classes and 0 folders.
+[2023.09.08-12.44.02:498][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0177 seconds. Added 1 classes and 2 folders.
+[2023.09.08-12.44.02:913][  0]LogSlate: Took 0.015818 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.09.08-12.44.02:929][  0]LogSlate: Took 0.010214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.09.08-12.44.02:950][  0]LogSlate: Took 0.009902 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.09.08-12.44.03:301][  0]LogRenderer: Reallocating scene render targets to support 864x412 Format 9 NumSamples 1 (Frame:1).
+[2023.09.08-12.44.03:521][  0]LogSlate: Took 0.011505 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2023.09.08-12.44.03:817][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0182 seconds. Added 1 classes and 2 folders.
+[2023.09.08-12.44.03:818][  0]LogLoad: (Engine Initialization) Total time: 71.80 seconds
+[2023.09.08-12.44.03:818][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.09.08-12.44.03:819][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2023.09.08-12.44.04:191][  0]LogContentStreaming: Texture pool size now 400 MB
+[2023.09.08-12.44.04:845][  2]LogAssetRegistry: Asset discovery search completed in 44.6470 seconds
+[2023.09.08-12.44.04:849][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2023.09.08-12.44.04:850][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000177 seconds (updated 0 objects)
+[2023.09.08-12.44.39:444][140]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.08-12.44.39:526][140]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.08-12.44.39:531][140]PIE: New page: PIE session: GymMap (Sep 7, 2023, 10:44:39 PM)
+[2023.09.08-12.44.39:531][140]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GymMap
+[2023.09.08-12.44.39:558][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027560s)
+[2023.09.08-12.44.39:560][140]LogAIModule: Creating AISystem for world GymMap
+[2023.09.08-12.44.39:560][140]LogPlayLevel: PIE: World Init took: (0.001502s)
+[2023.09.08-12.44.39:560][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GymMap.GymMap to /Game/Maps/UEDPIE_0_GymMap.GymMap (0.029712s)
+[2023.09.08-12.44.39:586][140]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.09.08-12.44.39:717][140]LogInit: FAudioDevice initialized.
+[2023.09.08-12.44.39:771][140]LogLoad: Game class is 'BP_HPGameModeBase_C'
+[2023.09.08-12.44.39:791][140]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GymMap.GymMap up for play (max tick rate 60) at 2023.09.08-05.44.39
+[2023.09.08-12.44.39:799][140]LogWorld: Bringing up level for play took: 0.016002
+[2023.09.08-12.44.39:935][140]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0176 seconds. Added 11 classes and 0 folders.
+[2023.09.08-12.44.39:966][140]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GymMap -0.06
+[2023.09.08-13.05.34:386][475]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.09.08-13.05.34:386][475]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.09.08-13.20.22:005][159]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.09.08-13.20.22:005][159]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.09.08-13.20.30:544][424]LogSlate: Took 0.000606 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2023.09.08-13.20.49:488][549]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2023.09.08-13.20.52:199][550]LogVSAccessor: Warning: Couldn't goto line number '0' in 'C:/Users/Denis/Documents/Unreal Projects/HeadshotProject/Source/HeadshotProject/Public/Pickups/HPBasePickup.h'
+[2023.09.08-13.20.52:342][550]LogVSAccessor: Warning: Couldn't goto line number '0' in 'C:/Users/Denis/Documents/Unreal Projects/HeadshotProject/Source/HeadshotProject/Private/Pickups/HPBasePickup.cpp'
+[2023.09.08-13.43.56:481][719]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-13.44.39:812][849]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-13.48.17:157][501]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-13.50.31:490][904]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-13.51.20:484][ 51]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-13.52.31:815][265]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-13.52.48:153][314]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-13.52.58:826][346]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-13.54.15:809][577]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-13.54.38:475][645]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-13.55.27:492][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-13.56.06:145][908]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-13.58.28:482][335]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-13.58.34:811][354]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-13.59.07:478][452]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-13.59.36:477][539]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-13.59.57:488][602]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-14.00.54:145][772]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-14.00.58:822][786]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-14.03.45:820][287]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-14.05.28:162][594]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-14.05.44:493][643]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-14.07.10:484][901]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.39.42:320][667]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.39.56:657][710]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.40.43:325][850]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.41.38:340][ 15]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.42.01:003][ 83]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.42.28:676][166]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.42.49:347][228]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.43.12:690][298]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.43.25:347][336]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.44.16:001][488]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.45.13:014][659]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.45.15:666][667]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.45.38:011][734]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.46.09:683][829]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.46.12:330][837]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.47.02:012][986]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.47.26:334][ 59]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.47.29:005][ 67]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.47.34:342][ 83]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.49.11:335][374]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.50.50:339][671]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.51.31:677][795]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.51.57:012][871]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.52.15:008][925]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.53.33:699][161]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.54.24:352][313]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.54.44:374][373]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.55.05:339][436]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.57.01:017][783]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.57.10:012][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.57.51:346][934]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.58.02:035][966]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.58.07:346][982]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.58.21:014][ 23]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.59.35:681][247]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-15.59.40:020][260]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.00.39:345][438]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.02.57:687][853]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.04.31:707][135]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.05.57:365][392]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.06.22:688][468]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.07.31:364][674]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.07.39:380][698]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.08.49:704][909]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.08.57:701][933]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.09.27:376][ 22]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.09.33:701][ 41]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.10.33:362][220]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.10.43:377][250]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.11.17:358][352]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.12.15:020][525]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.12.54:026][642]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.13.49:037][807]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.14.22:357][907]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.17.47:697][523]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.17.57:720][553]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.18.40:050][680]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.19.28:719][826]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.19.36:695][850]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.21.24:366][173]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.21.32:706][198]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.21.54:371][263]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.22.17:051][331]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.22.58:707][456]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.23.27:707][543]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.23.50:380][611]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.25.59:382][998]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.27.07:059][201]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.27.19:708][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.27.48:395][325]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.27.54:707][344]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.28.24:392][433]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.28.39:735][479]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.35.36:180][749]LogHotReload: New module detected: UE4Editor-HeadshotProject-1466.dll
+[2023.09.08-16.35.37:838][755]LogHotReload: Starting Hot-Reload from IDE
+[2023.09.08-16.35.38:528][755]LogClass: Could not find existing class HPAmmoPickup in package /Script/HeadshotProject for HotReload, assuming new class
+[2023.09.08-16.35.38:582][755]LogClass: WeaponData HotReload.
+[2023.09.08-16.35.38:582][755]LogClass: WeaponUIData HotReload.
+[2023.09.08-16.35.38:582][755]LogClass: AmmoData HotReload.
+[2023.09.08-16.35.38:596][755]LogHotReload: Re-instancing HPAmmoPickup after hot-reload.
+[2023.09.08-16.35.39:159][755]LogContentBrowser: Native class hierarchy updated for 'HeadshotProject' in 0.0200 seconds. Added 20 classes and 10 folders.
+[2023.09.08-16.35.39:165][755]Display: HotReload successful (12 functions remapped  3 scriptstructs remapped)
+[2023.09.08-16.35.39:327][755]LogContentBrowser: Native class hierarchy populated in 0.0516 seconds. Added 2408 classes and 514 folders.
+[2023.09.08-16.35.39:403][755]Display: HotReload took  1.6s.
+[2023.09.08-16.45.27:930][521]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.45.59:601][616]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.46.08:616][643]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.46.14:931][662]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.46.24:939][692]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.46.33:955][719]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.48.13:603][ 18]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.48.28:278][ 62]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.49.57:941][331]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.50.39:950][457]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.50.53:276][497]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2023.09.08-16.51.10:662][574]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.08-16.51.10:745][574]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.08-16.51.10:747][574]PIE: New page: PIE session: GymMap (Sep 8, 2023, 2:51:10 AM)
+[2023.09.08-16.51.10:747][574]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GymMap
+[2023.09.08-16.51.10:815][574]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067010s)
+[2023.09.08-16.51.10:820][574]LogAIModule: Creating AISystem for world GymMap
+[2023.09.08-16.51.10:821][574]LogPlayLevel: PIE: World Init took: (0.005673s)
+[2023.09.08-16.51.10:821][574]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GymMap.GymMap to /Game/Maps/UEDPIE_0_GymMap.GymMap (0.074143s)
+[2023.09.08-16.51.10:861][574]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.09.08-16.51.11:013][574]LogInit: FAudioDevice initialized.
+[2023.09.08-16.51.11:058][574]LogLoad: Game class is 'BP_HPGameModeBase_C'
+[2023.09.08-16.51.11:072][574]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GymMap.GymMap up for play (max tick rate 60) at 2023.09.08-09.51.11
+[2023.09.08-16.51.11:075][574]LogWorld: Bringing up level for play took: 0.014468
+[2023.09.08-16.51.11:097][574]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GymMap 1.071
+[2023.09.08-16.51.15:356][722]LogWindows: Windows GetLastError: The operation completed successfully. (0)

@@ -1,0 +1,16 @@
+﻿  Compiling game modules for hot reload
+  Parsing headers for HeadshotProjectEditor
+    Running UnrealHeaderTool "C:\Users\Denis\Documents\Unreal Projects\HeadshotProject\HeadshotProject.uproject" "C:\Users\Denis\Documents\Unreal Projects\HeadshotProject\Intermediate\Build\Win64\HeadshotProjectEditor\Development\HeadshotProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for HeadshotProjectEditor in 17.7433773 seconds
+  Performing 7 actions (4 in parallel)
+  HPWeaponFXComponent.gen.cpp
+  HPWeaponFXComponent.cpp
+  HeadshotProject.init.gen.cpp
+  HPRifleWeapon.cpp
+  HPProjectile.cpp
+  [6/7] Link UE4Editor-HeadshotProject-6383.dll
+  [7/7] Link UE4Editor-HeadshotProject-6383.lib
+     Creating library C:\Users\Denis\Documents\Unreal Projects\HeadshotProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-HeadshotProject-6383.lib and object C:\Users\Denis\Documents\Unreal Projects\HeadshotProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-HeadshotProject-6383.exp
+     Creating library C:\Users\Denis\Documents\Unreal Projects\HeadshotProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-HeadshotProject-6383.suppressed.lib and object C:\Users\Denis\Documents\Unreal Projects\HeadshotProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-HeadshotProject-6383.suppressed.exp
+  Deploying HeadshotProjectEditor Win64 Development...
+  Total build time: 136.87 seconds (Local executor: 21.40 seconds)

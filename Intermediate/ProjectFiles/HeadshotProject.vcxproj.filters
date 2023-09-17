@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\HeadshotProject.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{A2054381-CFFF-4A96-ADF8-7A572DF77544}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\HeadshotProject.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\HeadshotProjectEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{55E0CE2D-077D-4095-8704-75A8B94061BF}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\HeadshotProject">
+			<UniqueIdentifier>{C478ED1B-6A9C-4423-9FE2-D0194E3E0D09}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\HeadshotProject\HeadshotProject.Build.cs">
+			<Filter>Source\HeadshotProject</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\HeadshotProject\HeadshotProject.cpp">
+			<Filter>Source\HeadshotProject</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\HeadshotProject\HeadshotProject.h">
+			<Filter>Source\HeadshotProject</Filter>
+		</ClInclude >
+		<Filter Include="Source\HeadshotProject\Private">
+			<UniqueIdentifier>{CD5F6D82-D158-46C8-BFB8-F776EE61E9E5}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\HeadshotProject\Private\HPGameModeBase.cpp">
+			<Filter>Source\HeadshotProject\Private</Filter>
+		</ClCompile >
+		<Filter Include="Source\HeadshotProject\Private\Animations">
+			<UniqueIdentifier>{47FB9120-27BC-4E95-9C6B-1599F9EEBBD2}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\HeadshotProject\Private\Animations\HPAnimNotify.cpp">
+			<Filter>Source\HeadshotProject\Private\Animations</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\HeadshotProject\Private\Animations\HPClipEjectAnimNotify.cpp">
+			<Filter>Source\HeadshotProject\Private\Animations</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\HeadshotProject\Private\Animations\HPEquipFinishAnimNotify.cpp">
+			<Filter>Source\HeadshotProject\Private\Animations</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\HeadshotProject\Private\Animations\HPReloadFinishAnimNotify.cpp">
+			<Filter>Source\HeadshotProject\Private\Animations</Filter>
+		</ClCompile >
+		<Filter Include="Source\HeadshotProject\Private\Components">
+			<UniqueIdentifier>{39559F29-1569-48EA-B6DD-604291FB36CA}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\HeadshotProject\Private\Components\HPCharacterMovementComponent.cpp">
+			<Filter>Source\HeadshotProject\Private\Components</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\HeadshotProject\Private\Components\HPHealthComponent.cpp">
+			<Filter>Source\HeadshotProject\Private\Components</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\HeadshotProject\Private\Components\HPWeaponComponent.cpp">
+			<Filter>Source\HeadshotProject\Private\Components</Filter>
+		</ClCompile >
+		<Filter Include="Source\HeadshotProject\Private\Dev">
+			<UniqueIdentifier>{24645635-AC52-4E66-8932-2EDCE91291A1}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\HeadshotProject\Private\Dev\HPDevDamageActor.cpp">
+			<Filter>Source\HeadshotProject\Private\Dev</Filter>
+		</ClCompile >
+		<Filter Include="Source\HeadshotProject\Private\Pickups">
+			<UniqueIdentifier>{7835D8A3-0711-4601-B28F-D4ACBFF08CA1}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\HeadshotProject\Private\Pickups\HPAmmoPickup.cpp">
+			<Filter>Source\HeadshotProject\Private\Pickups</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\HeadshotProject\Private\Pickups\HPBasePickup.cpp">
+			<Filter>Source\HeadshotProject\Private\Pickups</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\HeadshotProject\Private\Pickups\HPHealthPickup.cpp">
+			<Filter>Source\HeadshotProject\Private\Pickups</Filter>
+		</ClCompile >
+		<Filter Include="Source\HeadshotProject\Private\Player">
+			<UniqueIdentifier>{3C8F7F51-B0C0-43DB-A5DE-5C789F58CE48}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\HeadshotProject\Private\Player\HPBaseCharacter.cpp">
+			<Filter>Source\HeadshotProject\Private\Player</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\HeadshotProject\Private\Player\HPPlayerController.cpp">
+			<Filter>Source\HeadshotProject\Private\Player</Filter>
+		</ClCompile >
+		<Filter Include="Source\HeadshotProject\Private\UI">
+			<UniqueIdentifier>{67B3BAF4-2296-418A-A122-049CD5DB6072}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\HeadshotProject\Private\UI\HPGameHUD.cpp">
+			<Filter>Source\HeadshotProject\Private\UI</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\HeadshotProject\Private\UI\HPPlayerHUDWidget.cpp">
+			<Filter>Source\HeadshotProject\Private\UI</Filter>
+		</ClCompile >
+		<Filter Include="Source\HeadshotProject\Private\Weapon">
+			<UniqueIdentifier>{B5D816B9-C5A9-40F3-9D34-61709C622A4D}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\HeadshotProject\Private\Weapon\HPBaseWeapon.cpp">
+			<Filter>Source\HeadshotProject\Private\Weapon</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\HeadshotProject\Private\Weapon\HPLauncherWeapon.cpp">
+			<Filter>Source\HeadshotProject\Private\Weapon</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\HeadshotProject\Private\Weapon\HPProjectile.cpp">
+			<Filter>Source\HeadshotProject\Private\Weapon</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\HeadshotProject\Private\Weapon\HPRifleWeapon.cpp">
+			<Filter>Source\HeadshotProject\Private\Weapon</Filter>
+		</ClCompile >
+		<Filter Include="Source\HeadshotProject\Private\Weapon\Components">
+			<UniqueIdentifier>{2BA6FF38-28D1-4495-89F5-CEB60BE51740}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\HeadshotProject\Private\Weapon\Components\HPWeaponFXComponent.cpp">
+			<Filter>Source\HeadshotProject\Private\Weapon\Components</Filter>
+		</ClCompile >
+		<Filter Include="Source\HeadshotProject\Public">
+			<UniqueIdentifier>{9F882A67-AEDE-4F97-9DD1-288EB44861F9}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\HeadshotProject\Public\HPCoreTypes.h">
+			<Filter>Source\HeadshotProject\Public</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\HeadshotProject\Public\HPGameModeBase.h">
+			<Filter>Source\HeadshotProject\Public</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\HeadshotProject\Public\HPUtils.h">
+			<Filter>Source\HeadshotProject\Public</Filter>
+		</ClInclude >
+		<Filter Include="Source\HeadshotProject\Public\Animations">
+			<UniqueIdentifier>{6E72BDFA-8B92-4BFF-8110-975F38B4780C}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\HeadshotProject\Public\Animations\AnimUtils.h">
+			<Filter>Source\HeadshotProject\Public\Animations</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\HeadshotProject\Public\Animations\HPAnimNotify.h">
+			<Filter>Source\HeadshotProject\Public\Animations</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\HeadshotProject\Public\Animations\HPClipEjectAnimNotify.h">
+			<Filter>Source\HeadshotProject\Public\Animations</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\HeadshotProject\Public\Animations\HPEquipFinishAnimNotify.h">
+			<Filter>Source\HeadshotProject\Public\Animations</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\HeadshotProject\Public\Animations\HPReloadFinishAnimNotify.h">
+			<Filter>Source\HeadshotProject\Public\Animations</Filter>
+		</ClInclude >
+		<Filter Include="Source\HeadshotProject\Public\Components">
+			<UniqueIdentifier>{6B336E3C-C79F-40E3-B4B8-003768952F78}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\HeadshotProject\Public\Components\HPCharacterMovementComponent.h">
+			<Filter>Source\HeadshotProject\Public\Components</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\HeadshotProject\Public\Components\HPHealthComponent.h">
+			<Filter>Source\HeadshotProject\Public\Components</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\HeadshotProject\Public\Components\HPWeaponComponent.h">
+			<Filter>Source\HeadshotProject\Public\Components</Filter>
+		</ClInclude >
+		<Filter Include="Source\HeadshotProject\Public\Dev">
+			<UniqueIdentifier>{CB254FC9-485E-4A59-A737-7BBC1E89A09F}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\HeadshotProject\Public\Dev\HPDevDamageActor.h">
+			<Filter>Source\HeadshotProject\Public\Dev</Filter>
+		</ClInclude >
+		<Filter Include="Source\HeadshotProject\Public\Pickups">
+			<UniqueIdentifier>{4D8C28E6-5986-4536-9007-1149F178DD5C}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\HeadshotProject\Public\Pickups\HPAmmoPickup.h">
+			<Filter>Source\HeadshotProject\Public\Pickups</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\HeadshotProject\Public\Pickups\HPBasePickup.h">
+			<Filter>Source\HeadshotProject\Public\Pickups</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\HeadshotProject\Public\Pickups\HPHealthPickup.h">
+			<Filter>Source\HeadshotProject\Public\Pickups</Filter>
+		</ClInclude >
+		<Filter Include="Source\HeadshotProject\Public\Player">
+			<UniqueIdentifier>{DB027537-2A65-46EE-917E-8CDCF7903CB2}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\HeadshotProject\Public\Player\HPBaseCharacter.h">
+			<Filter>Source\HeadshotProject\Public\Player</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\HeadshotProject\Public\Player\HPPlayerController.h">
+			<Filter>Source\HeadshotProject\Public\Player</Filter>
+		</ClInclude >
+		<Filter Include="Source\HeadshotProject\Public\UI">
+			<UniqueIdentifier>{D4B4166D-26A0-46AE-A7CD-D761F26B6C9E}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\HeadshotProject\Public\UI\HPGameHUD.h">
+			<Filter>Source\HeadshotProject\Public\UI</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\HeadshotProject\Public\UI\HPPlayerHUDWidget.h">
+			<Filter>Source\HeadshotProject\Public\UI</Filter>
+		</ClInclude >
+		<Filter Include="Source\HeadshotProject\Public\Weapon">
+			<UniqueIdentifier>{72EB31DB-5A48-499B-A0E4-13327B53C959}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\HeadshotProject\Public\Weapon\HPBaseWeapon.h">
+			<Filter>Source\HeadshotProject\Public\Weapon</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\HeadshotProject\Public\Weapon\HPLauncherWeapon.h">
+			<Filter>Source\HeadshotProject\Public\Weapon</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\HeadshotProject\Public\Weapon\HPProjectile.h">
+			<Filter>Source\HeadshotProject\Public\Weapon</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\HeadshotProject\Public\Weapon\HPRifleWeapon.h">
+			<Filter>Source\HeadshotProject\Public\Weapon</Filter>
+		</ClInclude >
+		<Filter Include="Source\HeadshotProject\Public\Weapon\Components">
+			<UniqueIdentifier>{7D113776-7376-410D-BE6F-7FE4762C49D1}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\HeadshotProject\Public\Weapon\Components\HPWeaponFXComponent.h">
+			<Filter>Source\HeadshotProject\Public\Weapon\Components</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
